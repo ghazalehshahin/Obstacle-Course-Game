@@ -5,11 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Hit
-  - carbody
-  - cartop
-  - bumper
-  - wheel
-  - lamp
+  - Bumper1
+  - Bumper2
   layers:
   - Default
   - TransparentFX
