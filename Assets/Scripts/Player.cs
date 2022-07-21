@@ -5,7 +5,7 @@ public class Player : MonoBehaviour
 {  
     //attributes and methods (position)  
     [SerializeField] float moveSpeed = 10f;
-    [SerializeField] float rotateSpeed = 200f;
+    [SerializeField] float rotateSpeed = 250f;
     public void getData()
     {
         Debug.Log("moveSpeed:" + moveSpeed + "**rotateSpeed:" + rotateSpeed);
